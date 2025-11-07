@@ -1,0 +1,1475 @@
+fileFormatVersion: 2
+guid: 15b0627010b00e04e8f07494e7b95e76
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 3}
+        - {x: -3, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c692e62d46b7360458ec29903e00f303
+      internalID: -273064966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b667ff066d5474695eb7a619b69fd1
+      internalID: -1976849397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfa1ced23efffe4fa22f33f57762074
+      internalID: -711680042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 3}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a3fa9d14db60c499f671c33bdd522f
+      internalID: -265040955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e8494b83b08fb44acb881dc1b85896
+      internalID: 388282727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050cbafe76e62a8458b963adfb8e82bd
+      internalID: -997502455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1119e612034a91144a83a6d37ed97801
+      internalID: -1955063378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4502adfe988fb9f41a7f2ae197dc3d79
+      internalID: -1828582703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a869ced4621a047a8520e8cf0871a3
+      internalID: 2051115190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f303766ee1e39428db218da713ec9a
+      internalID: 28011274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c230aca6ce92147befe0330999c88c
+      internalID: 719098856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7879cf05322ec0643adfe56e7f47ce36
+      internalID: 1215647240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b665b281d67f024fa7c2ab58f62311a
+      internalID: 85922658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e524e1683156aa0488cb674fde91cb6b
+      internalID: -521452184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 3}
+        - {x: 3, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37746b3e514167b439c84287ba706616
+      internalID: 927528222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7ff9be3aed81842a6b650723acfc12
+      internalID: -1326687474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494ab709f87155941b188f70ffc285b7
+      internalID: -1476134823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28896c6bd421d6458335a2aea37ca8e
+      internalID: -185040755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: 3, y: -3}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154d39fe28790ab4b84940e8d718a6ea
+      internalID: -1071825723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: -3}
+        - {x: 3, y: -3}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e596b21b7857fc45a07b790a438f36d
+      internalID: 395162421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d512de9d32755043a67204ca8f964a5
+      internalID: 34465122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc61f86e2a0682144b156e818d94cd3e
+      internalID: 2023487207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 3}
+        - {x: 3, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5176350a815fbfc41ba59ef77cb764ff
+      internalID: 1669375027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76e35501c040884f99542b45ac42881
+      internalID: -91964288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 3}
+        - {x: -3, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6e5db170f05fd47b812205bc67d7e0
+      internalID: 632156642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -8, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7334725f4897af4c82e3069fa0273c3
+      internalID: -203229661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -8, y: -3}
+        - {x: 3, y: -3}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2aa8327842e67441ae7889d5faf7ff3
+      internalID: 1271519630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 3}
+        - {x: -3, y: -3}
+        - {x: 3, y: -3}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcab44f9ea139145a13139e454a55cd
+      internalID: 803943258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 8}
+        - {x: -3, y: 8}
+        - {x: -3, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 3}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c854a9dc532c0b42bb386f06ef8c089
+      internalID: -1065708886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3b8700d3fc3ce4499e71aefb507cd5
+      internalID: -1369359490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e00458ee7bebc84e9a5c7d0666b8518
+      internalID: -419570545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88a679b5f78e1a42a85e0e980a682cb
+      internalID: -410957122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5967ec4333f967a4aab145680e006ba8
+      internalID: 2116022576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83533ccec349ee4e802162cb6f19eab
+      internalID: 1674312895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -8, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1d3b66167e114498fa12d2a1b77df9
+      internalID: -678742474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -8, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e057813341af73841a7493efbf244b07
+      internalID: -497634652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da53a383e4d3f0945bb8089074232b15
+      internalID: 1854965201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 3}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fb0bbb8b7488b4ca37d7cfdf98abb0
+      internalID: -984972427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -8, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9e75c3b23ea1d43876e953aa72003a
+      internalID: -1604385080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 3}
+        - {x: 3, y: 8}
+        - {x: -3, y: 8}
+        - {x: -3, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c94037c99886d649a931ca5fa4396e5
+      internalID: 1307377208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49864b56f0edde44d8ec706d1eca4f7b
+      internalID: -528265221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 3}
+        - {x: 3, y: 8}
+        - {x: -8, y: 8}
+        - {x: -8, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeec8be03fec2ac45bc870b0506d54b4
+      internalID: 1844176333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44479d3948d54df4792c7123ce5f78c2
+      internalID: 57877783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7da249b35c6df449ec81be09fe985a
+      internalID: 1610700137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 3}
+        - {x: 3, y: 8}
+        - {x: -3, y: 8}
+        - {x: -3, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111c298e71c6e7446b1c70abd3edcae5
+      internalID: -602788391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 3}
+        - {x: 3, y: 8}
+        - {x: -3, y: 8}
+        - {x: -3, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b2c78f6829a604a88ac2a8c61bd682
+      internalID: -1519183144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystalSpikesTileset_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -3, y: 3}
+        - {x: -8, y: 3}
+        - {x: -8, y: -3}
+        - {x: 3, y: -3}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4603941c8fff041844ae078379d30b
+      internalID: -729446914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CrystalSpikesTileset_0: -273064966
+      CrystalSpikesTileset_1: -1976849397
+      CrystalSpikesTileset_10: 719098856
+      CrystalSpikesTileset_11: 1215647240
+      CrystalSpikesTileset_12: 85922658
+      CrystalSpikesTileset_13: -521452184
+      CrystalSpikesTileset_14: 927528222
+      CrystalSpikesTileset_15: -1326687474
+      CrystalSpikesTileset_16: -1476134823
+      CrystalSpikesTileset_17: -185040755
+      CrystalSpikesTileset_18: -1071825723
+      CrystalSpikesTileset_19: 395162421
+      CrystalSpikesTileset_2: -711680042
+      CrystalSpikesTileset_20: 34465122
+      CrystalSpikesTileset_21: 2023487207
+      CrystalSpikesTileset_22: 1669375027
+      CrystalSpikesTileset_23: -91964288
+      CrystalSpikesTileset_24: 632156642
+      CrystalSpikesTileset_25: -203229661
+      CrystalSpikesTileset_26: 1271519630
+      CrystalSpikesTileset_27: 803943258
+      CrystalSpikesTileset_28: -1065708886
+      CrystalSpikesTileset_29: -1369359490
+      CrystalSpikesTileset_3: -265040955
+      CrystalSpikesTileset_30: -419570545
+      CrystalSpikesTileset_31: -410957122
+      CrystalSpikesTileset_32: 2116022576
+      CrystalSpikesTileset_33: 1674312895
+      CrystalSpikesTileset_34: -678742474
+      CrystalSpikesTileset_35: -497634652
+      CrystalSpikesTileset_36: 1854965201
+      CrystalSpikesTileset_37: -984972427
+      CrystalSpikesTileset_38: -1604385080
+      CrystalSpikesTileset_39: 1307377208
+      CrystalSpikesTileset_4: 388282727
+      CrystalSpikesTileset_40: -528265221
+      CrystalSpikesTileset_41: 1844176333
+      CrystalSpikesTileset_42: 57877783
+      CrystalSpikesTileset_43: 1610700137
+      CrystalSpikesTileset_44: -602788391
+      CrystalSpikesTileset_45: -1519183144
+      CrystalSpikesTileset_46: -729446914
+      CrystalSpikesTileset_5: -997502455
+      CrystalSpikesTileset_6: -1955063378
+      CrystalSpikesTileset_7: -1828582703
+      CrystalSpikesTileset_8: 2051115190
+      CrystalSpikesTileset_9: 28011274
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
